@@ -1,0 +1,32 @@
+.heading{
+    width: 100%;
+    text-align: left;
+}
+.heading h3{
+    display: inline;
+    font-family: 'Balsamiq Sans', cursive;
+    font-family: 'Indie Flower', cursive;
+    font-family: 'Montagu Slab', serif;
+    font-family: 'Mouse Memoirs', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Readex Pro', sans-serif;
+    font-family: 'Rubik Moonrocks', cursive;
+    font-family: 'Special Elite', cursive;
+    font-family: 'Titan One', cursive;
+    color: whitesmoke;
+    text-shadow: 1px solid black;
+}
+.heading button{
+    float: right;
+    border: 1px solid whitesmoke;
+}
+.heading button:hover{
+    color: black;
+    background-color: lightcyan;
+}
+.big_image{
+    width: 100%;
+}
+#start, #status{
+    font-size: 22px;
+}
